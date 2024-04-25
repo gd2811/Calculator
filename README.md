@@ -18,6 +18,4 @@ This project is a simple calculator implemented using HTML and JavaScript. It al
    - Press Enter key to evaluate the expression.
    - Click on the "C" button to clear the display.
 
-## Dependencies
 
-This project uses the `math.js` library for mathematical evaluation. The library is included via CDN links in the HTML file.
